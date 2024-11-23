@@ -9,7 +9,8 @@ Features
     Voice Support: Click on the volume icon to hear the translation.
     Copy Translation: Easily copy the translated text with a click of a button.
     Responsive Design: The app is fully responsive, offering a smooth experience on both desktop and mobile devices.
-    ![image](https://github.com/user-attachments/assets/f7ab5737-31dc-468b-8220-12f65ce6063c)
+
+![image](https://github.com/user-attachments/assets/f7ab5737-31dc-468b-8220-12f65ce6063c)
 
 How to Use
 
