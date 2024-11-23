@@ -28,23 +28,6 @@ Technologies Used
     FontAwesome: Used for icons such as volume, copy, and exchange buttons.
     Google Fonts (Poppins): For custom font styling.
 
-Getting Started
-
-To use or modify this Language Translator app locally:
-
-    Clone the Repository:
-
-    git clone https://github.com/YourUsername/YourRepo.git
-
-    Install Dependencies:
-    Since the project uses plain HTML, CSS, and JavaScript, no additional dependencies are needed to get started.
-
-    Run the Application:
-    Simply open index.html in any modern web browser.
-
-    Modify as Needed:
-        You can add more language options by modifying the countries.js file.
-        Customize the design by updating the style.css.
 
 File Structure
 
